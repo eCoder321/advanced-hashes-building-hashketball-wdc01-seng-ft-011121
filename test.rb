@@ -1,1 +1,1 @@
-ruby hashketball.rb
+hashketball.rb
