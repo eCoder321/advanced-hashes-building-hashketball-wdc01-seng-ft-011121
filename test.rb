@@ -1,2 +1,1 @@
-game = require "./hashketball.rb"
-p game 
+ruby hashketball.rb
