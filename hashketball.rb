@@ -1,4 +1,6 @@
-game_hash = {}
+def game_hash
+  
+the_hash = Hash.new 
 
 alan = {
   player_name: "Alan Anderson",
@@ -136,7 +138,9 @@ away = {
   players: a_players
 }
 
-game_hash[:home] = home
-game_hash[:away] = away
+the_hash[:home] = home
+the_hash[:away] = away
+the_hash
+end
 
-p game_hash
+#p game_hash
