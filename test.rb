@@ -1,3 +1,6 @@
+require './hashketball'
+p game_hash.keys
+
 {:home=>{
   :team_name=>"Brooklyn Nets", 
   :colors=>["Black", "White"], 
