@@ -139,4 +139,4 @@ away = {
 game_hash[:home] = home
 game_hash[:away] = away
 
-#p game_hash
+p game_hash
