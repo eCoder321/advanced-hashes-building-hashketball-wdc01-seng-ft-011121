@@ -145,3 +145,5 @@ end
 
 #p game_hash
 """Had such a hard time passing this test because I thought game_hash should be a hash, as opposed to a method; I ran it over and again, and changed the spec files over and over, till this time I read the instructions over the nth time. Make sure to read carefully!"""
+
+"""P.S., ONLY METHODS from imported files are accessible, not variables..."""
